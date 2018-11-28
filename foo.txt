@@ -1,4 +1,5 @@
 foo
 var
+[what about this?]
 [edited]
 [edited2]
