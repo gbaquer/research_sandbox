@@ -4,7 +4,3 @@ var
 [edited]
 [edited2]
 [edited3]
-
-[add second module]
-	foo var chu
-[end second module]
