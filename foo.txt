@@ -2,3 +2,4 @@ foo
 var
 [edited]
 [edited2]
+[edited3]
